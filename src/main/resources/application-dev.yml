@@ -1,3 +1,19 @@
+# Server settings (ServerProperties)
 server:
   port: 8080
   context-path: /demo
+
+#Spring:
+#  datasource:
+#    driverClassName: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://123.57.216.193:3306/test
+#    username: gxb
+#    password:
+
+spring:
+  datasource:
+    driver-class-name:
+    url:
+    username:
+    password:
+
